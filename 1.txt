@@ -15,3 +15,10 @@ This is something else in Pan Branch only
 
 
 This is a test 1 only
+
+###
+1. Checkout master (done)
+2. Pull the master from remote (done)
+3. Checkout branch-2
+4. Merge master into branch-2 and deal with conflicts over there
+5. Push branch-2
