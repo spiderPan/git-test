@@ -13,8 +13,7 @@ This is something else in Pan Branch only
 - Push that branch to remote
 - Checkout master
 
-
-This is a test 1 only
+This is test-2 only text
 
 ###
 1. Checkout master (done)
