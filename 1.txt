@@ -6,3 +6,9 @@ This is Pan Branch only text
 
 This is something else in Pan Branch only
 
+### Repeat the following things 2 time
+- Create a new branch based off master
+- Change something in 1.tex
+- Commit to that branch
+- Push that branch to remote
+- Checkout master
