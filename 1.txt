@@ -12,3 +12,5 @@ This is something else in Pan Branch only
 - Commit to that branch
 - Push that branch to remote
 - Checkout master
+
+This is test-2 only text
